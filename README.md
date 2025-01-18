@@ -37,4 +37,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 
 ![pc](https://github.com/user-attachments/assets/ec7b4a64-8b5e-4f99-ba09-cbf06b87bc68)
-![mobile](https://github.com/user-attachments/assets/b1b34b9a-f337-44d5-9ab9-cedeae005d64)
+
